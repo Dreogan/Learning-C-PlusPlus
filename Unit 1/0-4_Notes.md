@@ -18,4 +18,4 @@ Take care in creating your solution to save time and to create a more stable pro
 
 ### Best practices:
 
-The primary source code file should be named > main.cpp \ to indicate it is the main file in the source code. 
+The primary source code file should be named ==main.cpp== to indicate it is the main file in the source code. 
